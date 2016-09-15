@@ -9,3 +9,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element     HTML TAGS
 https://developer.mozilla.org/en-US/docs/Web/HTML/attributes     Attributes
 
 https://specificity.keegan.st     Specificity calculator   when applying style the higher the specificty score then the rule will win out. e.g. you make all body yellow font but a certain word in body you make red from class. Class has higher score. refer to url for example https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861260
+
+http://www.cssfontstack.com/   Fonts
+
+http://www.colorpicker.com/    Colors
