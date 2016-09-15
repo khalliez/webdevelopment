@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!-- This is a comment. It doesnt do anything. ctrl-/ -->
+<html>
+<head>
+	<title>My first Page</title> <!-- show up on browser tab -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
+<!-- 	<style type="text/css">
+		h1 {color: purple;}
+		li {color: orange;}
+	</style> -->
+</head> 
+<body>
+
+
+	<h1>Heading level 1</h1>
+	<h2>Heading level 2</h2>
+	<h3>Heading level 3</h3>
+	<h4>Heading level 4</h4>
+	<h5>Heading level 5</h5>
+	<h6>Heading level 6</h6>
+
+	<h1>Heading elements</h1>
+	<h2>Summary</h2>
+	<p>Some text here...</p>
+
+<!-- image -->
+	<div>
+		<img src="F:\Flat-coated-retriever_001.jpg">
+	<div>
+
+<!-- Link -->
+	<a href = "http://www.google.com">Click me to go to google </a>
+
+<!-- HyperLink -->
+	<p>To go to page two>>>
+	    <a href = "Page 2.html">Click me to go to Page two</a>
+	</p>
+
+<!-- Formating	 -->
+	<p>  I make 
+		<strong>Bold</strong> 
+		and 
+		<em>Itallic</em>
+	</p>
+	
+	<div> <!-- block around divider -->
+<!-- order list -->
+		<h4>Ordered List</h4>
+		<ol>
+			<li class="highlight">Red</li>
+			<li id="special">Blue</li>   <!-- put id in and this links to the css spot  #special{background: yellow;} -->
+				<ul>
+					<li>Blue<span>Green</span></li> <!-- span is block inline divider -->
+					<li>BlueAlga</li>
+				</ul>
+			<li class="highlight">Green</li>
+		</ol>
+	</div>
+<!-- unorder list -->
+  <h5>Links</h5>
+	<ul>
+		<li> <a href="http://www.google.com">GOOGLE</a></li>
+		<li> <a href="http://www.facebook.com">FACEBOOK</a></li>
+		<li> <a href="http://www.reddit.com">REDDIT</a></li>
+	</ul>
+
+<!-- order list -->
+	<ol>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+	</ol>
+
+
+
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+		<li>Red</li>
+		<li>Blue</li>
+		<li>Green</li>
+
+<!-- CREATE TABLES -->
+	<table>
+		<thead>
+		  <tr>   
+		    <th>Name</th>  <!-- table header -->
+		    <th>Age</th>
+		    <th>Link</th>
+		  </tr>
+		</thead>
+
+		<tbody>
+		  <tr>   <!-- table row -->
+		    <td>Rusty</td>  <!-- table cell -->
+		    <td>1</td>
+		    <!-- image width -->
+		    <td><img width = "50" src="F:\Flat-coated-retriever_001.jpg"></td>
+		  </tr>
+		  <tr>   
+		    <td>Wyatt</td>  
+		    <td>4</td>
+		    <td><a href = "http://www.google.com">Click me to go to google </a></td>
+		  </tr>
+		</tbody>
+	</table>    
+
+
+	
+<!-- All different input type https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input -->
+<!-- CHECK BOX -->
+	<form>
+	   <div>
+		   <label for = "agreed">  I agree to the terms and conditions: </label>
+		   <input id = "agreed" name = "agreed" type="checkbox" required>
+		   <!-- Button -->
+			<button>Go!</button>
+
+	   </div>
+	</form>	
+
+    <!--  default it checked -->
+	<div><input name = "agreed" type="checkbox" required checked></div>
+
+<!-- COLOR BOX -->
+	<div><input type="color"></div>
+
+<!-- radio button -->
+	<h5>Pick cat or dog</h5>
+	
+		<label  for = "dogs">  Dogs:  </label> 
+		<label for = "cats">  Cats:  </label> 
+                                 <!-- value is the value that shows in url -->
+		<input name = "pet choice" id ="dogs" type="radio" value= "DOG"> 
+		<input name = "pet choice" id ="cats" type="radio" value= "CAT">
+
+	<!-- Drop Down Menu -->
+	<label>	
+	  pick number
+		<select name = "pick number" >
+			<option value = "">Select...</option>
+			<option >1</option>
+			<option>2</option>
+			<option>3</option>
+			<option value = "Not Dog or Cat">Other</option> 
+			  <!-- use value for what text to sho win url when option is chosen  HTML/firstpage?pet+choice=CAT&How+Many=Not+Dog+or+Cat-->
+		</select>
+	</label>
+
+	<!-- Text Area -->	
+	<div><textarea name = "Write about" rows = "5" cols = "10">
+		Write something here
+	</textarea></div>
+
+    <!-- Button -->
+		<button>Go!</button>
+	</form>
+
+	
+
+
+<!-- Form tag. Sign In. Password. -->
+  <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form -->
+	<h1>Sign In</h1>
+	<form action = "http://www.google.com" method="GET">
+		<label> Username:    <!-- Label before the input object -->
+			<!--        name = adds the text to the url.  placeholder create gray text in input box -->
+			<input name = "username" type="text" placeholder = "username" required>  
+		</label>
+
+		<label for = "password">  Password 1:  </label>   <!-- for connects to the id in the input -->
+		<input id = "password" name = "password" type="password" placeholder = "password" required pattern = ".{5,10}" required title = "Password must be between 5 and 10 characters">
+
+		<label for = "email">  Email:  </label>
+		<input id = "email" name = "email" type="email" placeholder = "email" required> <!-- required requires a @ in the text-->
+		<input type = "submit">
+			<!-- <button>Login</button> -->
+	</form>
+
+
+</body>
+</html>
