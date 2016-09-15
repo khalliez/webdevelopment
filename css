@@ -1,0 +1,43 @@
+/*Applies to All ELEMENTS	*/
+	h1 {color: #2431C7; border-color: purple; border-width: 5px; border-style: solid }   /*from http://www.colorpicker.com/*/
+
+	h2 {color: rgba(36,49,199,1); background: rgba(255,100,80,.2) ;}   /*red green blue transparency*/  /*from http://www.colorpicker.com/*/
+	h3 {color: rgba(36,49,199,.6); border: 2px dashed red;}  /*transparency   .6*/
+	h4 {color: rgba(36,49,199,.2); }  /*transparency     .2*/
+
+	/*body { background: url(http://www.graphicsbeam.com/wp-content/uploads/2016/06/1.jpg); 
+		  background-repeat: no-repeat;  /*removes tiles
+		  background-size: cover ;   /*  covers the entire page
+		  background-position: 50% 0%}    */  
+
+
+	/*ID*/  /*Apply to one*/
+	#special{background: yellow;}
+
+
+	/*CLASS*//*Apply to multiple*/
+	.highlight {text-decoration: line-through;}
+
+
+/*Descendant Selector*/
+li a {color: red;}  /* Selects everything in a list that has a a href  example is google facbook and reddit link */
+
+/*Adjacent Selector*/
+h5 + ul { border: 4px solid red;}  /*Selects and h5 header with ul*/
+
+/*Attribute Selector*/
+a[href = "http://www.google.com" ] {background: rgba(36,49,199,.2) ;}   /*You can select any attribute. This case we target anythiing with googl link*/
+
+input[type="text"] {background: blue;}  /*  This makes all text field background blue*/
+
+input[type="checkbox"] {background: yellow;}  /*  This makes all text field background blue*/
+
+
+/*nth of type   SELECT certain number of certain type */
+li :nth-of-type(3) {background: orange;}   /*This made the 3rd item in a li the backgroud purple*/
+
+ol :nth-of-type(even) {background: red;}   /*This makes every even row of ol li background red
+
+
+
+
