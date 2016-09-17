@@ -4,7 +4,7 @@
 <head>
 	<title>My first Page</title> <!-- show up on browser tab -->
 	<link rel="stylesheet" type="text/css" href="style.css">
-
+	<link href="https://fonts.googleapis.com/css?family=Tangerine|PT+Sans" rel="stylesheet"> <!-- link to a google font --> <!-- font-family: 'PT Sans', sans-serif; -->
 
 
 <!-- 	<style type="text/css">
@@ -13,6 +13,30 @@
 	</style> -->
 </head> 
 <body>
+
+<!-- HyperLink -->
+	<p>To go to page two>>>
+	    <a href = "Page 2.html">Click me to go to Page two</a>
+	</p>
+
+<h6> Pictures</h6>
+<!-- Massimo Margagnoni -->
+<img src = "http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg">
+<img src = "http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg">
+<img src = "http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg">
+
+<!-- Giuseppe Milo -->
+<img src = "http://c1.staticflickr.com/9/8788/17367410309_78abb9e5b6_b.jpg">
+<img src = "http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg">
+<img src = "http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg">
+
+<!-- GörlitzPhotography -->
+<img src = "http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg">
+<img src = "http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg">
+<img src = "http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg">
+
+<!-- All Photos Licensed Under Creative Commons 2.0 -->
+<!-- https://creativecommons.org/licenses/by/2.0/legalcode  -->
 
 
 	<h1>Heading level 1</h1>
@@ -24,8 +48,13 @@
 
 	<h1>Heading elements</h1>
 	<h2>Summary</h2>
-	<p>Some text here...</p>
 
+	<div>
+	<p>Bacon ipsum dolor amet picanha <span> beef </span> ribs boudin, drumstick meatball tri-tip turducken chuck bresaola rump pork belly strip steak shoulder. Jowl ham hock shoulder turkey tongue pastrami. Beef ribs pork loin pork chop, kielbasa boudin filet mignon jowl doner ham hock swine chuck bacon cupim meatloaf. Flank biltong landjaeger, beef ribs hamburger spare ribs andouille chicken t-bone corned beef pancetta jerky tenderloin pork loin. Pork chop turducken beef leberkas, salami pastrami shank t-bone.</p>
+    </div>
+     <div>
+		<p>Bacon ipsum dolor amet picanha <span> beef </span> ribs boudin, drumstick meatball tri-tip turducken chuck bresaola rump pork belly strip steak shoulder. Jowl ham hock shoulder turkey tongue pastrami. Beef ribs pork loin pork chop, kielbasa boudin filet mignon jowl doner ham hock swine chuck bacon cupim meatloaf. Flank biltong landjaeger, beef ribs hamburger spare ribs andouille chicken t-bone corned beef pancetta jerky tenderloin pork loin. Pork chop turducken beef leberkas, salami pastrami shank t-bone.</p>
+     </div>
 <!-- image -->
 	<div>
 		<img src="F:\Flat-coated-retriever_001.jpg">
@@ -34,10 +63,7 @@
 <!-- Link -->
 	<a href = "http://www.google.com">Click me to go to google </a>
 
-<!-- HyperLink -->
-	<p>To go to page two>>>
-	    <a href = "Page 2.html">Click me to go to Page two</a>
-	</p>
+
 
 <!-- Formating	 -->
 	<p>  I make 
@@ -121,7 +147,28 @@
 		    <td><a href = "http://www.google.com">Click me to go to google </a></td>
 		  </tr>
 		</tbody>
-	</table>    
+	</table>   
+
+
+	<!-- TIC TAC TOE -->
+	<h1>Tic Tac Toe</h1>
+		<table class="tic">
+		  <tr>   
+		    <td></td>
+		    <td class = "vertical"></td>
+		    <td></td>
+		  </tr>
+		  <tr>   
+		    <td class = "horizontal"></td>
+		    <td class = "vertical horizontal"></td>
+		    <td class = "horizontal"></td>
+		  </tr>
+		  <tr>   
+		    <td></td>
+		    <td class = "vertical"></td>
+		    <td></td>
+		  </tr>
+	</table>   
 
 
 	
