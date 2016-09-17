@@ -15,3 +15,7 @@ http://www.cssfontstack.com/   Fonts just name to use not import font
 www.google.com/fonts#      CUSTOM FONTS to import
 
 http://www.colorpicker.com/    Colors
+
+https://css-tricks.com/examples/hrs/   <HRs>
+
+http://presentation.creative-tim.com/
