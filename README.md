@@ -19,3 +19,7 @@ http://www.colorpicker.com/    Colors
 https://css-tricks.com/examples/hrs/   <HRs>
 
 http://presentation.creative-tim.com/
+
+http://getbootstrap.com/css/     Bootstrap
+
+http://getbootstrap.com/css/#grid     Bootstrap
