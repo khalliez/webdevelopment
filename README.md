@@ -26,4 +26,4 @@ http://getbootstrap.com/css/#grid     Bootstrap
 
 https://unsplash.com/   FREE PHOTOS
 
-http://fontawesome.io/    Awesome Fonts
+http://fontawesome.io/    Awesome Fonts and ICONS
