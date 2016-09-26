@@ -28,6 +28,7 @@ https://unsplash.com/   FREE PHOTOS
 
 http://fontawesome.io/    Awesome Fonts and ICONS
 
+JAVASCRIPT --------------------------------------------------------
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array   ARRAYS
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf   Array example of fun of array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice  Slice of array
@@ -36,3 +37,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions Functions
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes Classes
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration   Loops
