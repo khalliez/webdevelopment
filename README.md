@@ -29,6 +29,7 @@ https://unsplash.com/   FREE PHOTOS
 http://fontawesome.io/    Awesome Fonts and ICONS
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array   ARRAYS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf   Array example of fun of array
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions Functions
 
