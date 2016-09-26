@@ -33,6 +33,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf   Array example of fun of array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice  Slice of array
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach   Loop through array
+https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861416   Name Value pair in list
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions Functions
 
