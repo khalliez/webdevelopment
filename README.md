@@ -45,4 +45,4 @@ http://underscorejs.org/  Underscore is a JavaScript library that provides a who
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document  Document objects
 
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector or querySelectorAll   Selects and sets a variable to the object 
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector or querySelectorAll or getElementbyid(if you gave the html object an id name)   Selects and sets a variable to the object 
