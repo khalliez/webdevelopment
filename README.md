@@ -49,6 +49,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector or query
 
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList   put all things you want to do in a class like fontsize border  then attched to the element   e.g. h1.classlist.nameoflist   then h1 will represent anything from that class
 
-https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent    grabs the text
+https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent    grabs the text and you can change it  textcontent = "Sdf"
 https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML    brings back text and the html code
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets attribute like an href and you can change it using setattribute
