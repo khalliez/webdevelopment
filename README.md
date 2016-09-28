@@ -43,4 +43,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteratio
 
 http://underscorejs.org/  Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
 
+https://developer.mozilla.org/en-US/docs/Web/API/Document  Document objects
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector or querySelectorAll   Selects and sets a variable to the object 
