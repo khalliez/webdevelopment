@@ -46,3 +46,5 @@ http://underscorejs.org/  Underscore is a JavaScript library that provides a who
 https://developer.mozilla.org/en-US/docs/Web/API/Document  Document objects
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector or querySelectorAll or getElementbyid or getElementsbyClassName or getElementsbytagname(if you gave the html object an id name)   Selects and sets a variable to the object 
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList   put all things you want to do in a class like fontsize border  then attched to the element   e.g. h1.classlist.nameoflist   then h1 will represent anything from that class
