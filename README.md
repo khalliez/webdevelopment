@@ -52,3 +52,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/classList   put all thi
 https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent    grabs the text and you can change it  textcontent = "Sdf"
 https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML    brings back text and the html code
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets attribute like an href and you can change it using setattribute
+
+https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
