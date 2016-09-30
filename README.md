@@ -56,3 +56,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML    brings bac
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets attribute like an href and you can change it using setattribute
 
 https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
+
+https://jquery.com/  JQUERY
