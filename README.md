@@ -12,6 +12,8 @@ https://specificity.keegan.st     Specificity calculator   when applying style t
 
 http://www.cssfontstack.com/   Fonts just name to use not import font
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference   All css properties
+
 www.google.com/fonts#      CUSTOM FONTS to import
 
 http://www.colorpicker.com/    Colors
