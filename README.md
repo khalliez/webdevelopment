@@ -58,3 +58,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets at
 https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
 
 https://jquery.com/  JQUERY
+
+http://youmightnotneedjquery.com/ Might Not Need Jquery
