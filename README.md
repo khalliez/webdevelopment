@@ -60,3 +60,5 @@ https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
 https://jquery.com/  JQUERY
 
 http://youmightnotneedjquery.com/ Might Not Need Jquery
+
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes    Key codes for key press j query events
