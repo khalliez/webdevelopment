@@ -20,7 +20,7 @@ http://www.colorpicker.com/    Colors
 
 https://css-tricks.com/examples/hrs/   <HRs>
 
-http://presentation.creative-tim.com/
+http://presentation.creative-tim.com/     Download copmponents
 
 http://getbootstrap.com/css/     Bootstrap
 
@@ -29,6 +29,8 @@ http://getbootstrap.com/css/#grid     Bootstrap
 https://unsplash.com/   FREE PHOTOS
 
 http://fontawesome.io/    Awesome Fonts and ICONS
+
+http://uigradients.com/#Disco     Gradient Backgroud
 
 JAVASCRIPT --------------------------------------------------------
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array   ARRAYS
