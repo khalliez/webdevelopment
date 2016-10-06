@@ -70,3 +70,5 @@ https://api.jquery.com/category/effects/    jQuery Effects
 http://paperjs.org/      jQuery Animation
 
 https://howlerjs.com/    Audio jquery
+
+https://github.com/jonobr1/Neuronal-Synchrony/tree/master/assets/A   Sounds
