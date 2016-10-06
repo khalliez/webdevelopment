@@ -79,3 +79,5 @@ https://c9.io/     Cloud 9  Sets up the entire full stack environment for you. S
 
 
 https://ide.c9.io/learnwithcolt/webdevbootcamp   Professors website with code
+
+https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line?   Learn about the Command line
