@@ -66,3 +66,7 @@ http://youmightnotneedjquery.com/ Might Not Need Jquery
 https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes    Key codes for key press j query events
 
 https://api.jquery.com/category/effects/    jQuery Effects
+
+http://paperjs.org/      jQuery Animation
+
+https://howlerjs.com/    Audio jquery
