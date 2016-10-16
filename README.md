@@ -91,3 +91,8 @@ https://c9.io/     Cloud 9  Sets up the entire full stack environment for you. S
 https://ide.c9.io/learnwithcolt/webdevbootcamp   Professors website with code
 
 https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line?   Learn about the Command line
+
+https://premium.wpmudev.org/blog/setting-up-xampp/?nhp=b&utm_expid=3606929-87.FQUx5sKvRhKbhK_8_C59WQ.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F     Installing Wordpress
+"XAMPP provides an easy way to run a local server environment on your Windows machine, allowing you to test and develop locally, rather than installing WordPress on a live site. It will also save you a bunch of time since you won’t have to install and uninstall WordPress each time you test themes and plugins.
+
+The great thing about XAMPP is it’s free and open source. You can set up as many installations of WordPress as you want and it’s just as easy to get Multisite up and running."
