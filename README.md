@@ -96,3 +96,5 @@ https://premium.wpmudev.org/blog/setting-up-xampp/?nhp=b&utm_expid=3606929-87.FQ
 "XAMPP provides an easy way to run a local server environment on your Windows machine, allowing you to test and develop locally, rather than installing WordPress on a live site. It will also save you a bunch of time since you won’t have to install and uninstall WordPress each time you test themes and plugins.
 
 The great thing about XAMPP is it’s free and open source. You can set up as many installations of WordPress as you want and it’s just as easy to get Multisite up and running."
+
+Run Wordpress: start>XAMPP Control Panel>start Apache and mySql     go to "http://localhost/wp/wp-admin/" on broswer, will change with new sites.
