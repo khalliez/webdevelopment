@@ -1,3 +1,4 @@
+--------------HTML---------------------------------------------------------------  
 http://www.w3schools.com/html/default.asp  HTML
 
 http://codepen.io/                      write and test html css and js
@@ -12,6 +13,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/attributes     Attributes
 
 https://specificity.keegan.st     Specificity calculator   when applying style the higher the specificty score then the rule will win out. e.g. you make all body yellow font but a certain word in body you make red from class. Class has higher score. refer to url for example https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861260
 
+--------------------CSS------------------------------------------------------------
 http://www.w3schools.com/css/default.asp  CSS
 
 http://www.cssfontstack.com/   Fonts just name to use not import font
@@ -38,7 +40,7 @@ http://fontawesome.io/    Awesome Fonts and ICONS
 
 http://uigradients.com/#Disco     Gradient Backgroud
 
-JAVASCRIPT --------------------------------------------------------
+---------JAVASCRIPT(Programming Language) --------------------------------------------------------
 http://www.w3schools.com/js/default.asp
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array   ARRAYS
@@ -67,6 +69,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets at
 
 https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
 
+
+----------JQUERY-------------------------------------------------------------
 http://www.w3schools.com/jquery/default.asp  Jquery
 
 https://jquery.com/  JQUERY
