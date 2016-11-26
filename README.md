@@ -102,9 +102,15 @@ https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line? 
 -------NODE JS--------------------------------------- ability to use js on server side not run through broswer
 
 
--------NPM--------------------------------------------- nodejs packages, npm to node js like jquery to javascript. 
+-------NPM--------------------------------------------- packages up js, jsnode, bootstrap and more that ther people wrote to make it easier
 www.npmjs.com
+https://www.udemy.com/the-web-developer-bootcamp/learn/v4/t/lecture/3861576
 
+------Express------------------------------------------ Web FrameWork, most widely used framework for node js. like pyhton to django.
+
+------API----------------------------------------------
+ifttt.com
+http://www.programmableweb.com/    16,000 apis
 
 
 -------WORD PRESS -----------------------------------------------------------------
