@@ -102,6 +102,10 @@ https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line? 
 -------NODE JS--------------------------------------- ability to use js on server side not run through broswer
 
 
+-------NPM--------------------------------------------- nodejs packages, npm to node js like jquery to javascript. 
+www.npmjs.com
+
+
 
 -------WORD PRESS -----------------------------------------------------------------
 https://premium.wpmudev.org/blog/setting-up-xampp/?nhp=b&utm_expid=3606929-87.FQUx5sKvRhKbhK_8_C59WQ.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F     Installing Wordpress
