@@ -68,7 +68,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML    brings bac
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets attribute like an href and you can change it using setattribute
 
 
------------DOM   Document Object Manipulation-------------------------------
+-----------DOM   Document Object Manipulation------------------------------- use javascript to manipulate html and css
 https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
 
 
