@@ -69,10 +69,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute    gets at
 
 
 -----------DOM   Document Object Manipulation------------------------------- use javascript to manipulate html and css
+$("img") - selects all images
 https://developer.mozilla.org/en-US/docs/Web/Events     DOM EVENTS
 
 
-----------JQUERY-------------------------------------------------------------
+----------JQUERY------------------------------------------------------------- makes using js easier
 http://www.w3schools.com/jquery/default.asp  Jquery
 
 https://jquery.com/  JQUERY
@@ -98,6 +99,11 @@ https://ide.c9.io/learnwithcolt/webdevbootcamp   Professors website with code
 
 https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line?   Learn about the Command line
 
+-------NODE JS--------------------------------------- ability to use js on server side not run through broswer
+
+
+
+-------WORD PRESS -----------------------------------------------------------------
 https://premium.wpmudev.org/blog/setting-up-xampp/?nhp=b&utm_expid=3606929-87.FQUx5sKvRhKbhK_8_C59WQ.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F     Installing Wordpress
 "XAMPP provides an easy way to run a local server environment on your Windows machine, allowing you to test and develop locally, rather than installing WordPress on a live site. It will also save you a bunch of time since you won’t have to install and uninstall WordPress each time you test themes and plugins.
 
