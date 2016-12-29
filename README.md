@@ -35,6 +35,7 @@ http://getbootstrap.com/css/     Bootstrap
 http://getbootstrap.com/css/#grid     Bootstrap
 
 https://unsplash.com/   FREE PHOTOS
+http://photosforclass.com/  FREE PHOTOS
 
 http://fontawesome.io/    Awesome Fonts and ICONS
 
