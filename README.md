@@ -101,7 +101,7 @@ https://ide.c9.io/learnwithcolt/webdevbootcamp   Professors website with code
 https://www.davidbaumgold.com/tutorials/command-line/#what-is-the-command-line?   Learn about the Command line
 
 -------NODE JS--------------------------------------- ability to use js on server side not run through broswer
-
+------AJAX------------- type of javascript in which you can render parts of a webpage instead of the whole webpage
 
 -------NPM--------------------------------------------- packages up js, jsnode, bootstrap and more that ther people wrote to make it easier
 www.npmjs.com
