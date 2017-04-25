@@ -28,11 +28,6 @@ https://css-tricks.com/examples/hrs/   <HRs>
 
 http://presentation.creative-tim.com/     Download copmponents
 
-http://www.w3schools.com/bootstrap/
-
-http://getbootstrap.com/css/     Bootstrap
-
-http://getbootstrap.com/css/#grid     Bootstrap
 
 https://unsplash.com/   FREE PHOTOS
 http://photosforclass.com/  FREE PHOTOS
@@ -40,6 +35,15 @@ http://photosforclass.com/  FREE PHOTOS
 http://fontawesome.io/    Awesome Fonts and ICONS
 
 http://uigradients.com/#Disco     Gradient Backgroud
+
+-----BOOTSTRAP-----------
+http://www.w3schools.com/bootstrap/
+
+http://getbootstrap.com/css/     Bootstrap
+
+http://getbootstrap.com/css/#grid     Bootstrap
+
+http://bootsnipp.com/   plugins for your webpage
 
 ---------JAVASCRIPT(Programming Language) --------------------------------------------------------
 http://www.w3schools.com/js/default.asp
